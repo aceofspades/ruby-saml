@@ -1,6 +1,6 @@
-require "xml_security"
-require "time"
-require "nokogiri"
+#require "xml_security"
+#require "time"
+#require "nokogiri"
 
 # Only supports SAML 2.0
 module Onelogin

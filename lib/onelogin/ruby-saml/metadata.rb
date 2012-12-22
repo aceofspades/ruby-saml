@@ -1,6 +1,6 @@
-require "rexml/document"
-require "rexml/xpath"
-require "uri"
+#require "rexml/document"
+#require "rexml/xpath"
+#require "uri"
 
 # Class to return SP metadata based on the settings requested.
 # Return this XML in a controller, then give that URL to the the 

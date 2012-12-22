@@ -22,14 +22,14 @@
 # Copyright 2007 Sun Microsystems Inc. All Rights Reserved
 # Portions Copyrighted 2007 Todd W Saxton.
 
-require 'rubygems'
-require "rexml/document"
-require "rexml/xpath"
-require "openssl"
-require 'nokogiri'
-require "digest/sha1"
-require "digest/sha2"
-require "onelogin/ruby-saml/validation_error"
+#require 'rubygems'
+#require "rexml/document"
+#require "rexml/xpath"
+#require "openssl"
+#require 'nokogiri'
+#require "digest/sha1"
+#require "digest/sha2"
+#require "onelogin/ruby-saml/validation_error"
 
 module XMLSecurity
 
